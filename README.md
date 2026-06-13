@@ -1,5 +1,6 @@
 # Hospitaldatabase
-Database assignment which includes documents in repo for reference, list of codes used and thought process for the layout of the project. 
+This is the second  attempt of Database assignment, the first of which is also on public view names Assessment1
+Hospitaldatase repo includes documents for reference, list of codes used and thought process for the layout of the project. 
 Database itself is labelled resionalhospitaldata.sql and including different hospitals, doctors assigned, patients and prescriptions
 Creating a hospital database with Entities being hospitals, doctors, patients and prescriptions.
 Each table is related to the other by their primary and foreign key as per erd diagram included in repo
