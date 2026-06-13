@@ -1,5 +1,6 @@
 # Hospitaldatabase
-Database including different hospitals, doctors assigned, patients and prescriptions
+Database assignment which includes documents in repo for reference, list of codes used and thought process for the layout of the project. 
+Database itself is labelled resionalhospitaldata.sql and including different hospitals, doctors assigned, patients and prescriptions
 Creating a hospital database with Entities being hospitals, doctors, patients and prescriptions.
 Each table is related to the other by their primary and foreign key as per erd diagram included in repo
 
@@ -18,4 +19,5 @@ To use repo:
 Git clone https://github.com/Devi1042/Hospitaldatabase.git
 
 See codes for sample codes to select, add and join tables
+Regionalhospitaldata1.sql shows the doctors, patients and prescriptions tables
 See Plan for assignment to uderstand my thinking
